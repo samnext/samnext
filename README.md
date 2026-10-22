@@ -1,6 +1,6 @@
-<h2 align="center">Привет, я Иван 👋</h2>
+<h2 align="center">Hello there!</h2>
 <p align="center">
-  Студент · Backend-разработчик на Python · Люблю чистый код и понятные API
+
 </p>
 
 <br>
