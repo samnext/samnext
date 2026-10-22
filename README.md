@@ -21,7 +21,7 @@
 
 | Проект | Описание | Стек |
 |---|---|---|
-| [project-one](https://github.com/samnext/GYM-Tracker) | Learning-purpose project for making and tracking workouts | FastAPI, PostgreSQL, Docker, Redis, Pytest|
+| [GYM Tracker](https://github.com/samnext/GYM-Tracker) | Learning-purpose project for making and tracking workouts | FastAPI, PostgreSQL, Docker, Redis, Pytest|
 
 
 ### Stats
