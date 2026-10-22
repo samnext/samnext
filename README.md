@@ -1,7 +1,8 @@
-## Backend-developer
+## Backend Developer
 
 
-![Skills](https://skillicons.dev/icons?i=go,python,docker,postgres,linux)
+![Stats](https://github-readme-stats.vercel.app/api?username=ivanov&show_icons=true&theme=tokyonight&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanov&layout=compact&theme=tokyonight&hide_border=true)
 <!--
 **samnext/samnext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
